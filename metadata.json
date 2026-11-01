@@ -1,0 +1,6 @@
+{
+  "name": "Groww - Stocks, Mutual Funds & Trading",
+  "description": "Comprehensive investment platform inspired by Groww featuring Stocks, Mutual Funds, F&O Option Chains, IPOs, real-time interactive Portfolio, Watchlists, and Order execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
